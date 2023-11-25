@@ -1,6 +1,6 @@
 # matplotlib_challenge
 Project Overview
-The Matplotlib project for the University of Toronto Data Analytics Bootcamp program and involves a comprehensive analysis of a real-world dataset from Pymaceuticals, Inc., a pharmaceutical company specializing in anti-cancer medications. The dataset encompasses the results of an animal study where 249 mice, identified with squamous cell carcinoma (SCC) tumors, underwent various drug regimens. This 45-day study aimed to observe and measure tumor development.
+The Matplotlib project for the University of Toronto Data Analytics Bootcamp program. This project involves a comprehensive analysis of a real-world dataset from Pymaceuticals, Inc., a pharmaceutical company specializing in anti-cancer medications. The dataset encompasses the results of an animal study where 249 mice, identified with squamous cell carcinoma (SCC) tumors, underwent various drug regimens. This 45-day study aimed to observe and measure tumor development.
 
 As a senior data analyst, the task is to conduct an in-depth analysis of the data and generate requisite tables and figures for the technical report of the clinical study. The primary objective is to compare the performance of Pymaceuticals' drug of interest, Capomulin, against other treatment regimens.
 
