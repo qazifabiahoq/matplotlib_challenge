@@ -11,18 +11,18 @@ As a senior data analyst, the task is to conduct an in-depth analysis of the dat
 The assignment is structured into distinct tasks, including data preparation, summary statistics generation, and the creation of various visualizations (bar charts, pie charts, box plots, line plots, and scatter plots). The tasks evaluate proficiency in utilizing Matplotlib for comprehensive data analysis.
 
 
-##Project Structure: 
+## Project Structure: 
 
 data: Contains the two CSV files, mouse_metadata.csv and study_results.csv.
 pymaceuticals_Analysis.ipynb: The Jupyter Notebook where the analysis is performed. The figures generated during the analysis will be shown directly in this notebook.
 README.md: A markdown file explaining the project, instructions, and any other relevant information, directly located in the main directory.
 This structure should provide a clear and straightforward view when someone navigates to the matplotlib_challenge directory.
 
-##Conclusion:
+## Conclusion:
 
 In undertaking this comprehensive analysis of Pymaceuticals' animal study, which involved 249 mice subjected to diverse drug regimens, profound insights have been gleaned to elucidate the effectiveness of anti-cancer medications, with a particular focus on Capomulin. The 45-day study, meticulously measuring tumor development, aimed to provide a holistic understanding of treatment outcomes.
 
-##Data Preparation:
+## Data Preparation:
 
 The initial step involved merging the mouse_metadata and study_results DataFrames, resulting in a consolidated dataset of 248 unique mice after addressing duplicate entries. This meticulous data cleaning laid the foundation for robust analyses.
 
